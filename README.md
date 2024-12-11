@@ -1,0 +1,1 @@
+In my STA215 I examined variables that relate to music. Some of our variables were intended_audience, merch_sold, and monthly_listners. Throughout our research I picked two variables those variables are common_genre and intended_age of audience. With these variables I looked at the correlation between common_genre & intended_age of audeience. 
